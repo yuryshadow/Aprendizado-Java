@@ -26,12 +26,15 @@ public class DesafioDiaSemana {
 			System.out.println("Quinto dia da semana !!");
 		} else if (dia.equals("sexta") || dia.equals("sexta-feira")) {
 			System.out.println("Sexto dia da semana !!");
-		} else if (dia.equals("sábado")){
+		} else if (dia.equals("sábado")) {
 			System.out.println("Sétimo dia da semana !!");
-		} else if (dia.equals("domingo")){
+		} else if (dia.equals("domingo")) {
 			System.out.println("Primeiro dia da semana !!");
-		}else {
+		} else {
 			System.out.println("Dia inválido, por favor tente de novo !!");
 		}
+
+		entrada.close();
+
 	}
 }

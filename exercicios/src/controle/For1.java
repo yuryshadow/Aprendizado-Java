@@ -1,7 +1,5 @@
 package controle;
 
-import java.util.Iterator;
-
 public class For1 {
 
 	public static void main(String[] args) {

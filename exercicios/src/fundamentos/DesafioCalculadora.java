@@ -29,31 +29,31 @@ public class DesafioCalculadora {
 			
 			System.out.println(resultado);
 			
-		
+			entrada.close();
 			
 			// Outra forma de resolver o problema
 			
 			Scanner teclado = new Scanner(System.in);
 			
 			System.out.print("Digite a primeira nota: ");
-			double numero1 = entrada.nextDouble();
+			double numero1 = teclado.nextDouble();
 			
 			System.out.print("Digite a segunda nota: ");
-			double numero2 = entrada.nextDouble();
+			double numero2 = teclado.nextDouble();
 			
 			System.out.print("Informe a operação: ");
-			String op = entrada.next();
+			String op = teclado.next();
 			
 			// Lógica
 			
-			double resultado2 = "+".equals(op) ? num1 + num2 : 0;
-			resultado2 = "+".equals(op) ? num1 + num2 : resultado2;
-			resultado2 = "*".equals(op) ? num1 * num2 : resultado2;
-			resultado2 = "/".equals(op) ? num1 / num2 : resultado2;
-			resultado2 = "%".equals(op) ? num1 % num2 : resultado2;
+			double resultado2 = "+".equals(op) ? numero1 + numero2 : 0;
+			resultado2 = "+".equals(op) ? numero1 + numero2 : resultado2;
+			resultado2 = "*".equals(op) ? numero1 * numero2 : resultado2;
+			resultado2 = "/".equals(op) ? numero1 / numero2 : resultado2;
+			resultado2 = "%".equals(op) ? numero1 % numero2 : resultado2;
 			
 			System.out.printf("%.2f %s %.wf = %2.f",
 					num1, op, num2, resultado2);
-			entrada.close();
+			teclado.close();
 		}
 }

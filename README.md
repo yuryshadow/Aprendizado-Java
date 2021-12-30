@@ -1,6 +1,6 @@
  # Aprendizado sobre Java
 
- **Olá !** Esse repositório criado para enviar e atualizar conceitos de estudos sobre a linguagem JAVA, cada classe contém um fundamento assim como os pacotes estão separados por tópicos ! 😁
+ **Olá !** Esse repositório foi criado para enviar e atualizar conceitos de estudos sobre a linguagem JAVA, cada classe contém um fundamento assim como os pacotes estão separados por tópicos ! 😁
 
 <br>
 
@@ -9,7 +9,7 @@
 <p align="center">
  <a href="#sobre">Sobre</a>
  |
- <a href="#Conteudo">Conteúdo estudado</a>
+ <a href="#conteudo">Estudos</a>
  |
  <a href="#Conteudo">Tecnologias</a>
  |
@@ -29,11 +29,11 @@ Com o intuito de guardar os códigos que eu estou fazendo no curso de Java da Ud
 
 <br>
 
-# Conteúdo
+# Estudos
 
-1. Introdução
+1. Introdução ao JAVA
 2. Configuração do Ambiente
-3. Fundamentos
+3. Fundamentos do JAVA
 4. Estruturas de Controle
 5. Classes e Métodos
 6. Arrays e Collections

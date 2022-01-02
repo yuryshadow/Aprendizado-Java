@@ -33,12 +33,12 @@ Com o intuito de guardar os códigos que eu estou fazendo no curso de Java da Ud
 
 <br>
 
-# Conteúdo
+# Estudos
 
-1. Introdução
+1. Introdução ao JAVA
 
 2. Configuração do Ambiente
-3. Fundamentos
+3. Fundamentos do JAVA
 4. Estruturas de Controle
 5. Classes e Métodos
 6. Arrays e Collections

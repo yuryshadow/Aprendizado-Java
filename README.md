@@ -1,21 +1,25 @@
- # Aprendizado sobre Java
+ <h1 align="center">
+    <img alt="Readme" title ="Readme" src="./java-logo.png">
+</h1>
 
- **Olá !** Esse repositório criado para enviar e atualizar conceitos de estudos sobre a linguagem JAVA, cada classe contém um fundamento assim como os pacotes estão separados por tópicos ! 😁
+ # Aprendizado Java
+
+ **Olá !** Esse repositório foi criado para enviar e atualizar conceitos de estudos sobre a linguagem JAVA, cada classe contém um fundamento assim como os pacotes estão separados por tópicos ! 😁
 
 <br>
 
 <p align="center"> Java </p>
 
 <p align="center">
- <a href="#sobre">Sobre</a>
+ <a href="# Sobre">Sobre</a>
  |
- <a href="#Conteudo">Conteúdo estudado</a>
+ <a href="#Conteúdo">Conteúdo estudado</a>
  |
- <a href="#Conteudo">Tecnologias</a>
+ <a href="#Tecnologias estudadas">Tecnologias</a>
  |
- <a href="#Conteudo">Instalação e testes</a>
+ <a href="# Como abrir o projeto">Instalação e testes</a>
  |
- <a href="#Conteudo">Autor</a>
+ <a href="# Projetos semelhantes">Autor</a>
 </p>
 
 # Sobre 
@@ -32,6 +36,7 @@ Com o intuito de guardar os códigos que eu estou fazendo no curso de Java da Ud
 # Conteúdo
 
 1. Introdução
+
 2. Configuração do Ambiente
 3. Fundamentos
 4. Estruturas de Controle
@@ -56,8 +61,44 @@ Com o intuito de guardar os códigos que eu estou fazendo no curso de Java da Ud
 
 <br>
 
-# Em construção
 
-<h2 align="center">
-🚥 Java estudo 🔨 Readme em andamento ⚠️🚧
-</h2>
+# Tecnologias estudadas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Yuri-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Yuri-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Yuri-HTML" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </div>
+
+<br>
+
+# Como abrir o projeto
+
+## Introdução:
+Para abrir o projeto instale em seu computador o <a src="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR"> Java </a> e o <a src="https://www.oracle.com/java/technologies/downloads/"> Java JDK </a>, eu utilizei a IDE <a src="https://www.eclipse.org/downloads/"> Eclipse </a> para fazer os projetos mas você pode utilizar qualquer outra.
+
+### 1. Passo para começar
+
+Abra o terminal ou a interface de linha da sua escolha.
+
+### 2. Clone o projeto
+
+~~~bash 
+git clone https://github.com/yuryshadow/Aprendizado-Java.git 
+~~~
+
+### 3. Utilize a sua IDE de escolha para abrir os arquivos.
+
+<br>
+
+# Projetos semelhantes
+
+### 1. Jogo campo minado
+<br>
+
+#
+
+Made with 🖥️ by YURI CARLOS ✌️ <a href="https://www.linkedin.com/in/yurisouza/">See my LinkedIn </a>
+
+
+

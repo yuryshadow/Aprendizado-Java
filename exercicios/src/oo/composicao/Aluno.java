@@ -18,6 +18,7 @@ public class Aluno {
 	}
 	
 	Curso obterCursoPorNome(String nome) {
+		@SuppressWarnings("unused")
 		Curso procurado = null;
 		
 		for(Curso curso: this.cursos) {

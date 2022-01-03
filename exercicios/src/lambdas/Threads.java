@@ -19,8 +19,6 @@ public class Threads {
 			}
 		};
 
-		
-		
 		Runnable trabalho3 = Threads::trabalho3;
 
 		Thread t1 = new Thread(trabalho1);

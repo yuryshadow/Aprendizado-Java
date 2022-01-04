@@ -93,7 +93,7 @@ git clone https://github.com/yuryshadow/Aprendizado-Java.git
 
 # Projetos semelhantes
 
-### 1. Jogo campo minado
+<a href="https://github.com/yuryshadow/campo-minado-java"> 1. Jogo campo minado </a>
 <br>
 
 #

@@ -68,7 +68,7 @@ Com o intuito de guardar os códigos que eu estou fazendo no curso de Java da Ud
   <img align="center" alt="Yuri-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Yuri-Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Yuri-HTML" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  </div>
+ </div>
 
 <br>
 
@@ -79,7 +79,7 @@ Para abrir o projeto instale em seu computador o <a src="https://www.java.com/pt
 
 ### 1. Passo para começar
 
-Abra o terminal ou a interface de linha da sua escolha.
+Abra o terminal ou a interface de linha de comando da sua escolha.
 
 ### 2. Clone o projeto
 
